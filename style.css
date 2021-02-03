@@ -1,0 +1,97 @@
+:root {
+    --white-fill: #fff;
+    --yellow-fill: #daa520;
+    --red-fill: #b22222;
+    --blue-fill: #002366;
+}
+
+.page {
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+}
+
+.grid-container {
+    background-color: black;
+    width: 720px;
+    height: 720px;
+    display: grid;
+    grid-gap: 10px;
+    color: #39ff14;
+    text-align: center;
+}
+
+.box-a {
+    background-color: var(--white-fill);
+}
+
+.box-b {
+    background-color: var(--white-fill);
+}
+
+.box-c {
+    background-color: var(--yellow-fill);
+}
+
+.box-d {
+    background-color: var(--white-fill);
+}
+
+.box-e {
+    background-color: var(--white-fill);
+}
+
+.box-f {
+    background-color: var(--white-fill);
+}
+
+.box-g {
+    background-color: var(--red-fill);
+}
+
+.box-h {
+    background-color: var(--yellow-fill);
+}
+
+.box-i {
+    background-color: var(--white-fill);
+}
+
+.box-j {
+    background-color: var(--white-fill);
+}
+
+.box-k {}
+
+.box-l {
+    background-color: var(--white-fill);
+}
+
+.box-m {
+    background-color: var(--white-fill);
+}
+
+.box-n {
+    background-color: var(--yellow-fill);
+}
+
+.box-o {
+    background-color: var(--white-fill);
+}
+
+.box-p {
+    background-color: var(--blue-fill);
+}
+
+.box-q {
+    background-color: var(--red-fill);
+}
+
+.box-r {
+    background-color: var(--white-fill);
+}
+
+.box-s {}
+
+.box-t {
+    background-color: var(--white-fill);
+}
